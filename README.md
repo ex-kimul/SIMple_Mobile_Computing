@@ -8,8 +8,10 @@ Anggota kelompok :
 
 Semua data user dummy dan masih disimpan di dalam database lokal dengan package SQFlite
 untuk login dapat menggunakan 
+
 NAMA LENGKAP : u
 TANGGAL LAHIR : 123
+
 dengan mengklik tombol masuk
 
 ![](ss1.jpeg)
