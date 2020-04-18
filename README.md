@@ -25,4 +25,4 @@ terdapat icon kunci yang berfungsi sebagai tombol Sign Out
 
 Merupakan halamn webview untuk webpage saber pungli, setelah mengklik "laporkan pungli" pada bottombar
 
-![](ss4.jpeg)
+![](ss5.jpeg)
